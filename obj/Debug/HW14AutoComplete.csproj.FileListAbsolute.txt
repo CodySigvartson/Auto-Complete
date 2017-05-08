@@ -1,0 +1,9 @@
+C:\Users\Cody\Documents\Visual Studio 2015\Projects\CptS 321 OOP principles\HW14AutoComplete\bin\Debug\HW14AutoComplete.exe.config
+C:\Users\Cody\Documents\Visual Studio 2015\Projects\CptS 321 OOP principles\HW14AutoComplete\bin\Debug\HW14AutoComplete.exe
+C:\Users\Cody\Documents\Visual Studio 2015\Projects\CptS 321 OOP principles\HW14AutoComplete\bin\Debug\HW14AutoComplete.pdb
+C:\Users\Cody\Documents\Visual Studio 2015\Projects\CptS 321 OOP principles\HW14AutoComplete\obj\Debug\HW14AutoComplete.csprojResolveAssemblyReference.cache
+C:\Users\Cody\Documents\Visual Studio 2015\Projects\CptS 321 OOP principles\HW14AutoComplete\obj\Debug\HW14AutoComplete.Form1.resources
+C:\Users\Cody\Documents\Visual Studio 2015\Projects\CptS 321 OOP principles\HW14AutoComplete\obj\Debug\HW14AutoComplete.Properties.Resources.resources
+C:\Users\Cody\Documents\Visual Studio 2015\Projects\CptS 321 OOP principles\HW14AutoComplete\obj\Debug\HW14AutoComplete.csproj.GenerateResource.Cache
+C:\Users\Cody\Documents\Visual Studio 2015\Projects\CptS 321 OOP principles\HW14AutoComplete\obj\Debug\HW14AutoComplete.exe
+C:\Users\Cody\Documents\Visual Studio 2015\Projects\CptS 321 OOP principles\HW14AutoComplete\obj\Debug\HW14AutoComplete.pdb
